@@ -12,6 +12,8 @@ I have build this Product Template with my core HTML CSS skills
 
 You can check out here: [Product Page By Hitesh](https://product-page-by-hitesh.netlify.app/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d690830a-fe8a-490e-88d5-e989af8d44b1/deploy-status)](https://app.netlify.com/sites/product-page-by-hitesh/deploys)
+
 
 
 ## What i have learned from this project
