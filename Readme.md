@@ -10,7 +10,7 @@ I have build this Product Template with my core HTML CSS skills
 
 ![image](./created.png)
 
-You can check out here: [Product Page By Hitesh](https://saas-landing-page-by-hitesh.netlify.app/)
+You can check out here: [Product Page By Hitesh](https://product-page-by-hitesh.netlify.app/)
 
 
 
