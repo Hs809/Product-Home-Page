@@ -148,4 +148,37 @@ h4 {
 .action-btns {
   width: 65%;
   display: flex;
+  white-space: nowrap;
+}
+.action-btns > button {
+  margin-left: 1rem;
+}
+@media screen and (max-width: 970px) {
+  .intro-section {
+    grid-template-columns: 1fr;
+  }
+  .left-section,
+  .right-section {
+    text-align: center;
+  }
+  .action-btns {
+    justify-content: center;
+    width: 100%;
+  }
+  .discount {
+    left: 15%;
+  }
+  .discount-content {
+    left: 18%;
+  }
+  .action-btns > button {
+    margin: auto;
+    margin-top: 2rem;
+  }
+}
+
+@media screen and (max-width: 867px) {
+  .nav-items {
+    display: none;
+  }
 }
